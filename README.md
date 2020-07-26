@@ -6,4 +6,4 @@ The goal of this document is to create a guided path of discovery. This approach
 
 
 # Contributing
-By no means please contribute ideas, experiements, activites, etc.
+Please contribute ideas, experiements, activites, etc.
