@@ -2,7 +2,7 @@
 
 ## Key outcomes
 
-- Knowing how to count
+- Understanding money on an emotional level
 - Understanding purchases as investments vs liabilities
 - Appreciating compound growth/exponential growth
 - Appreciating that money is a means, not an ends
